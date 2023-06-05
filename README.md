@@ -5,6 +5,8 @@ Simple project made with JavaScript, HTML and CSS.
 
 > Status: finished.
 
+> Project width: short
+
 ### Index
 
 - Features

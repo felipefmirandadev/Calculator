@@ -11,6 +11,7 @@ Simple project made with JavaScript, HTML and CSS.
 - Technologies
 - Set
 - Usage
+- License
 
 ### Features
 
@@ -39,6 +40,10 @@ Once the calculator is open in your web browser, you can perform the following a
 - Use the clear button (usually labeled "C" or "AC") to reset the calculator.
 
 Feel free to modify and enhance the calculator code to suit your needs.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
